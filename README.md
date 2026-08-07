@@ -1,0 +1,1 @@
+# tendencias_em_ciencias_da_coputacao
